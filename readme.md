@@ -1,3 +1,3 @@
-# **linkycorn chrome extension*
+#linkycorn chrome extension
 
 makes blogging a little easier
